@@ -13,8 +13,6 @@ curl -fsSL https://get.pnpm.io/install.sh | sh -
 pnpm -v
 ```
 
-Expected output: version >= `6.14.5`.
-
 ## 🏔️ Environment
 
 If you are using [fnm - Node.js version manager](https://github.com/Schniz/fnm):
