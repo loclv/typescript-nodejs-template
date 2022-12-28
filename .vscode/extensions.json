@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "mintlify.document",
+		"DavidAnson.vscode-markdownlint",
+		"ChakrounAnas.turbo-console-log",
+    "Gruntfuggly.todo-tree"
+	]
+}
